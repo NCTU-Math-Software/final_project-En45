@@ -4,7 +4,9 @@ final_project-En45 created by GitHub Classroom
 執行sliding_puzzle.m開始遊戲
 
 sliding puzzle 滑塊拼圖
+
 遊戲方式
+
 1.選擇遊戲圖片：點擊圖片(點擊最上面標題顯示遊戲方式)
 
 2.選擇遊戲難度
