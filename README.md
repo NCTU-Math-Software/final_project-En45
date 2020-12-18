@@ -33,3 +33,11 @@ sliding puzzle 滑塊拼圖
 
 圖片出處
 level: https://www.shutterstock.com/pt/video/clip-22774576-easy-medium-hard-video-game-screen--
+taiwan: https://club.commonhealth.com.tw/article/1260
+gleaner: https://kknews.cc/culture/e6ov24q.html
+london: https://haruhii.pixnet.net/blog/post/46207566-tower-bridge-london
+quit: https://www.imdb.com/title/tt1196682/
+title: https://play.google.com/store/apps/details?id=com.clntgames.slidingpuzzle&hl=en_US&gl=US
+thank_you: https://www.dreamstime.com/photos-images/thank-you.html
+perfect: https://www.hiclipart.com/free-transparent-background-png-clipart-mwomr/download
+
