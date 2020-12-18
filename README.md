@@ -29,3 +29,7 @@ sliding puzzle 滑塊拼圖
 按照使用者選擇的難度進行圖片隨機打亂，越難方塊數量越多
 判斷使用者執行的方式，並移動圖片方塊
 當玩家成功還原圖片時結束這次遊戲，顯示花費的步數及時間，並讓玩家選擇下一次遊戲或退出
+
+
+圖片出處
+level: https://www.shutterstock.com/pt/video/clip-22774576-easy-medium-hard-video-game-screen--
