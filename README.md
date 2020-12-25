@@ -1,7 +1,7 @@
 # sliding puzzle
 final_project-En45 created by GitHub Classroom
 
-下載所有的jgp,png檔並執行sliding puzzle 滑塊拼圖
+下載所有的jgp,png檔並執行(run) sliding_puzzle.m
 
 遊戲方式
 
