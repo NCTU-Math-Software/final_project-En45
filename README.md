@@ -28,7 +28,7 @@ final_project-En45 created by GitHub Classroom
 
 結果
 
-顯示花費的步數、時間
+顯示花費的步數、時間(in common window)
 
 
 程式碼
